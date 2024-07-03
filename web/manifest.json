@@ -1,6 +1,6 @@
 {
-    "name": "test_drive",
-    "short_name": "test_drive",
+    "name": "trackrec_studio",
+    "short_name": "trackrec_studio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
