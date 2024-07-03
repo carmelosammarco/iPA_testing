@@ -1,19 +1,16 @@
-# TrackRec-Studio
-A multitrack Recording APP made with Flutter.
+# test_drive
 
-***My original aim was to create the simplest and a very intuitive multitrack recording studio. Could be added on it many others features (I already have many ideas but not the time in developing them). Hope some of you can and  If you are please to contact me***
+A new Flutter project.
 
-To know more about the motivation/reasoning, further plans and a video demonstration just click [HERE](https://sammarcocarmelo.com/2023/03/31/trackrec-studio-multitrack-recording-app-developed-in-flutter/). You will be redirected to my personal blog.
+## Getting Started
 
-# Screenshot IOS (any phones):
+This project is a starting point for a Flutter application.
 
-![Alternate text](forReadme/ios.png)
-![]()
+A few resources to get you started if this is your first Flutter project:
 
-# Screenshot Android:
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-![Alternate text](forReadme/Android.png)
-
-
-# ***Thank you to visit this page***
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
