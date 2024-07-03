@@ -1,6 +1,6 @@
 {
-    "name": "the3dbay",
-    "short_name": "the3dbay",
+    "name": "trackrec_studio",
+    "short_name": "trackrec_studio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -6,34 +6,11 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		RfgvUtLL4HbnNBbDud29SsG57H8=
-		</data>
-		<key>path_provider_foundation_privacy.bundle/Info.plist</key>
-		<data>
-		4kzwHODq7sPG3cGlUdvaJ/NtKSY=
-		</data>
-		<key>path_provider_foundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		/LX0ZlwxwIAIhjZaDB8EiH5KpXA=
+		HHfMbtNpcQ6+qIM6UlNQuGHxw2s=
 		</data>
 	</dict>
 	<key>files2</key>
-	<dict>
-		<key>path_provider_foundation_privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DkqgWMmGYdzRt5KlbiQ2QnBfSbe36+8gtwZ6Idob6Nw=
-			</data>
-		</dict>
-		<key>path_provider_foundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bS2g2NkwIn1CjB2TY7CtbjoS4sm2jFzilxWKdBL8jDE=
-			</data>
-		</dict>
-	</dict>
+	<dict/>
 	<key>rules</key>
 	<dict>
 		<key>^.*</key>
